@@ -62,6 +62,8 @@ determina una versión del lenguaje
 
 JDK: Conjunto de herramientas que me permite construir y ejectuar un programa Java
 
+JAVADOC: Herramienta incluída en el JDK que transforma los comentarios /** */ de código en páginas web
+
 API: Conjunto de clases y métodos de un determinado producto o librería que queda a mi disposición cuando programo
 
 MAVEN: Tecnlogía que: 1 Representa un repositorio donde almacenar librerias de java y poder compartirlas así con el resto 2 Permite 
@@ -86,10 +88,10 @@ POLIMORFISMO: La capacidad del lenguaje Java para determinar en tiempo de ejecuc
 
 Cosas básicas que quedan pendientes de ver por motivos de tiempo
 
-Interfaz
+Interfaz,
 Orden natural (Comparable), orden total (Comparator)
-El método equals de Object
-Colecciones (Mapas)
+El método equals de Object,
+Colecciones (Mapas),
 Ficheros y serialización de objetos
 
 
