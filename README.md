@@ -45,6 +45,16 @@ FOR EACH: for (Object o : Collection)
 
 BEAN: Clase básica con sus atributos y métodos de acceso (getters y setters)
 
+THIS: Palabra reservada que puede aparecer en dos contextos: En un Constructor, donde representa el objeto en ciernes, o en otro método, 
+donde representa el objeto llamante
+
+STATIC: Si un método es static, es que está definido a nivel de clase. Si esto ocurre, el método se invoca directamente desde el nombre
+de la propia clase (no es necesario objeto) Su comportamiento, por tanto, no varía en función del objeto llamante.
+ 
+NO STATIC: Si un método no es static le llamamos "dinámico" lo que implica que funciona de forma distinta según con qué objeto se invoque.
+Es necesario en métodos cuyo resultado depende del estado del objeto llamante. Si un método no es estático, es necesario invocarlo a través
+de un objeto (la mayoría de los métodos son "no estáticos).
+
 JAR: Agrugpación de archivos .class relativos a un proyecto que se empaqueta en este formato para su reutilización y distribución
 
 JSE: Librerías estándar de lenguaje que integran por ejemplo las clases como String, Scanner, System...etc. Una versión concreta del JSE
