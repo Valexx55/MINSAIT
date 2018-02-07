@@ -93,7 +93,7 @@ POLIMORFISMO: La capacidad del lenguaje Java para determinar en tiempo de ejecuc
 
 Cosas básicas que quedan pendientes de ver por motivos de tiempo
 
-Interfaz,Casting, 
+Declración de constantes (final),Interfaz,Casting, 
 Orden natural (Comparable), orden total (Comparator)
 El método equals de Object,
 Colecciones (Mapas),
