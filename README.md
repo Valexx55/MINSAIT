@@ -64,6 +64,8 @@ JDK: Conjunto de herramientas que me permite construir y ejectuar un programa Ja
 
 JAVADOC: Herramienta incluída en el JDK que transforma los comentarios /** */ de código en páginas web
 
+TODO: //TODO Comentario para marcar por donde te quedas o qué hay pendiente de hacer. Importantísimo comentar
+
 API: Conjunto de clases y métodos de un determinado producto o librería que queda a mi disposición cuando programo
 
 MAVEN: Tecnlogía que: 1 Representa un repositorio donde almacenar librerias de java y poder compartirlas así con el resto 2 Permite 
