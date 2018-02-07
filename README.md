@@ -23,6 +23,9 @@ Una clase tiene atributos y métodos. Se nombran en mayúsculas, en CamelCase.
 
 OBJETO: Instancia concreta de una clase
 
+PAQUETE: agrupación de clases por su funcionalidad (carpeta) El paquete contribuye al nombre canónico (completo) de la clase.
+Puede haber clases que se llamen igual, pero serán de distintos paquetes. Ojito
+
 CONSTRUCTOR: Método definido implícitamente para cada clase con su mismo nombre que permite la instaciación de objetos de esa clase
 
 PUBLIC, PRIVATE: Modificadores de visibilidad. Por defecto, atributos privados.
